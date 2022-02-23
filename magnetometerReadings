@@ -10,7 +10,7 @@ compass_enabled = True
 with open("magnetometerReadings.csv", "a") as f:
     for i in range(360):
         raw = sense.get_compass_raw()
-        f.write(raw["x"] + ", " + raw["y"] + "," + raw["z"] + "\n")
+        f.write(str(raw["x"]) + ", " + str(raw["y"]) + "," + str(raw["z"]) + "\n")
         sleep(30)
 
 
