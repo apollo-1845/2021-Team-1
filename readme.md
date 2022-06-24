@@ -1,4 +1,5 @@
-# This is our AstropI project!
+# This is our AstroPi project!
 
 
-![alt-text]([link](https://github.com/apollo-1845/Team-1/Untitled.mp4))
+https://user-images.githubusercontent.com/66888981/175659815-45d972a5-3d91-4455-8e4f-f0459154594c.mp4
+
