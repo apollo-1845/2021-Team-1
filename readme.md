@@ -1,4 +1,5 @@
-# Team B███████████ - 2021 Astro Pi: Mission Space Lab submission
+# 👋 Welcome to Team B's 2021 submission to Astro Pi: Mission Space Lab!
+This repository contains the code we ran on the ISS. Read on for details about our experiment, and where to find the data we collected!
 
 ## 💭 Our aims
 * Determining the concentration of greenhouse gases using NDVI in different parts of the earth’s atmosphere, relative to other gases and to map the earth’s magnetic field to determine how its strength and shape changes according to topographical features.
